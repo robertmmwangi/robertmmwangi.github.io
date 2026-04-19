@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Robert Mwangi Mbuthia"
-  avatar : "/assets/images/robert-profile.jpg"
+  avatar : "/assets/images/robert-profile.png"
   bio    : "Cybersecurity Analyst | IT Infrastructure & Network Security. 8+ years IT experience, now transitioning into cybersecurity with hands-on SOC training."
   links:
     - label: "LinkedIn"
