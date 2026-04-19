@@ -1,8 +1,6 @@
 main:
   - title: "Resume"
     url: /resume/
-  - title: "Certifications"
-    url: /certifications/
   - title: "Projects"
     url: /projects/
   - title: "Labs"
