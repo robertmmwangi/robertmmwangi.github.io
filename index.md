@@ -1,9 +1,13 @@
 ---
+title: ""
+permalink: /
 layout: single
 author_profile: true
-permalink: /
 ---
-# 🔐 Cybersecurity Analyst | IT Infrastructure & Network Security
+
+## Hi, I am Robert Mwangi Mbuthia
+
+### 🔐 Cybersecurity Analyst | IT Infrastructure & Network Security
 
 IT professional with 8+ years of experience in infrastructure, networking, and systems support, now transitioning into cybersecurity with hands-on SOC training in threat detection, log analysis, and vulnerability assessment.
 
