@@ -1,17 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
-author_profile: true
----
----
 title: "Resume"
 permalink: /resume/
 layout: single
 author_profile: true
 ---
-
 ## Professional Summary
 
 Cybersecurity-focused IT professional with over 8 years of experience in infrastructure management, networking, and systems administration, now specialized in Security Operations Center (SOC) processes. Proficient in threat detection, log analysis, vulnerability assessment, and web application security, with hands-on experience using tools including Metasploit, Wireshark, and FFUF. Capable of ensuring system protection, conducting incident analysis, and deploying defense mechanisms for Windows, Linux, and network environments.
