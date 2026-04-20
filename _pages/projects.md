@@ -5,136 +5,111 @@ layout: single
 author_profile: true
 ---
 
-## 🌐 Live Websites I've Built
+## The Websites I Built
 
-Below are real-world websites I have designed, developed, and continue to maintain for clients across different industries.
-
----
-
-### Halane Consultancy and Training Center (Germany)
-
-**URL:** [hctcentre.org](https://hctcentre.org) → *Opens in new tab*  
-**Client:** International training consultancy based in Hamburg, Germany
-
-A professional corporate website for a leadership and team-building training center serving European clients.
-
-**Key Features:**
-- Service showcase (Leadership Development, Team Building, Management Workshops)
-- Blog integration for thought leadership
-- Testimonial and client success sections
-- Contact and location information
-
-**Technologies:** WordPress, SEO, responsive design
+Before cybersecurity, I built websites. Quite a few of them. Each one taught me something about systems, clients, and problem-solving. Here are a few that I am proud of.
 
 ---
 
-### Shee Speaks – Storytelling Platform
+### 1.0 Halane Consultancy and Training Center (Germany)
 
-**URL:** [sheespeaks.co.ke](https://sheespeaks.co.ke) → *Opens in new tab*  
-**Client:** Lucy Wanjiru – Author and Branding Professional
+**URL:** [hctcentre.org](https://hctcentre.org)
 
-A personal blog and storytelling platform focused on motivational content, spiritual reflections, and societal commentary.
+I worked with a client in Hamburg, Germany. They needed a corporate website for their leadership training business. I built a clean, professional site that showcases their services, hosts their blog, and connects them with clients across Europe.
 
-**Key Features:**
-- Blog post categorization (Popular, Motivational, Interesting Reads, Spiritual)
-- Author profile section
-- Mobile-responsive design
+**What I used:** WordPress, SEO, responsive design
 
-**Technologies:** WordPress, content strategy, UI/UX design
+**What I learned:** International clients have different expectations. Communication across time zones requires discipline. A good website builds trust before a human says a word.
 
 ---
 
-### Corporate Aid Solutions
+### 2.0 Shee Speaks – Storytelling Platform
 
-**URL:** [corporateaidsolutions.co.ke](https://corporateaidsolutions.co.ke) → *Opens in new tab*  
-**Client:** Corporate consultancy
+**URL:** [sheespeaks.co.ke](https://sheespeaks.co.ke)
 
-A corporate website for business services and client engagement.
+Lucy Wanjiru is a writer and branding professional. She wanted a space to share her stories. I built her a blog platform that feels personal and warm. Readers can find posts by category. The design works on phones and computers.
 
-**Technologies:** WordPress, CMS management, performance optimization
+**What I used:** WordPress, content strategy, UI/UX design
 
----
-
-### SIDEC CBO – Community Organization
-
-**URL:** [sidec-ke.org](https://sidec-ke.org) → *Opens in new tab*  
-**Client:** Community-based organization
-
-**Status:** 🚀 **Launching Soon**
-
-A website for a community-based organization focused on social impact and local development.
+**What I learned:** Content is king. But structure is queen. A beautiful design means nothing if readers cannot find what they need.
 
 ---
 
-## 🔐 Cybersecurity Projects
+### 3.0 Corporate Aid Solutions
 
-### Web Application Security Testing
+**URL:** [corporateaidsolutions.co.ke](https://corporateaidsolutions.co.ke)
 
-**Objective:** Identify and exploit SQL injection vulnerabilities in a test web application.
+A corporate consultancy needed a web presence. I built a site that represents their brand and services. It is clean, professional, and ready for growth.
 
-**Approach:**
-- Studied OWASP Top 10 (2025) methodologies
-- Used FFUF for directory fuzzing and endpoint discovery
-- Performed manual SQL injection testing
+**What I used:** WordPress, CMS management, performance optimization
+
+---
+
+### 4.0 SIDEC CBO
+
+**URL:** [sidec-ke.org](https://sidec-ke.org)
+
+This one is special. It is for a community-based organization focused on social impact. The site is launching soon. I am proud to support their mission.
+
+**Status:** 🚀 Launching soon
+
+---
+
+## The Cybersecurity Projects That Taught Me
+
+These are not just assignments. These are the moments where theory became practice.
+
+---
+
+### 5.0 Web Application Security Testing
+
+**The problem:** How do attackers find weaknesses in web applications?
+
+**My approach:** I studied the OWASP Top 10 for 2025. I learned about SQL injection. I used FFUF to fuzz directories and find hidden endpoints. I manually tested for vulnerabilities.
 
 **Tools:** FFUF, OWASP guidelines, manual testing
 
-**Lesson Learned:** Input validation is critical for web security. Parameterized queries prevent SQL injection.
+**The lesson:** Input validation saves lives. Well, maybe not lives. But definitely data. One unfiltered input field can destroy a database.
 
 ---
 
-### Network Traffic Analysis with Wireshark
+### 6.0 Network Traffic Analysis with Wireshark
 
-**Objective:** Capture and analyze network traffic to identify anomalies and potential threats.
+**The problem:** What happens on a network when no one is watching?
 
-**Approach:**
-- Captured live network traffic using Wireshark
-- Analyzed DNS queries and TCP handshakes
-- Identified unusual patterns
+**My approach:** I captured live traffic. I filtered for DNS queries. I looked for patterns. I learned what normal looks like so I could spot abnormal.
 
-**Tools:** Wireshark, TCP/IP protocols
+**Tools:** Wireshark, TCP/IP knowledge
 
-**Lesson Learned:** Logs and traffic analysis are the eyes of a SOC analyst.
+**The lesson:** A SOC analyst without traffic analysis skills is like a security guard who never watches the cameras.
 
 ---
 
-### Vulnerability Assessment & Enumeration
+### 7.0 Vulnerability Assessment and Enumeration
 
-**Objective:** Perform network scanning and enumeration to identify vulnerabilities.
+**The problem:** How do attackers find doors into a system?
 
-**Approach:**
-- Used Metasploit Framework for scanning and enumeration
-- Identified open ports, services, and potential weaknesses
-- Documented findings and recommended mitigations
+**My approach:** I used Metasploit to scan networks. I enumerated open ports and running services. I documented everything.
 
 **Tools:** Metasploit Framework, TryHackMe labs
 
-**Lesson Learned:** Regular vulnerability assessments prevent exploitation.
+**The lesson:** You cannot defend what you do not know exists. Enumeration is reconnaissance. Reconnaissance is the first step of every attack. And every defense.
 
 ---
 
-## 📊 Project Impact Summary
+## The Numbers
 
-| Metric | Achievement |
-|--------|-------------|
-| **Live Websites** | 4+ client websites |
-| **Geographic Reach** | Kenya, Germany |
-| **Industries** | Training, Publishing, Social Impact, Corporate |
-| **Cybersecurity Labs** | 3+ completed |
-
----
-
-## 🔗 View My Work
-
-- 🌐 [Halane Consultancy – hctcentre.org](https://hctcentre.org)
-- 📖 [Shee Speaks – sheespeaks.co.ke](https://sheespeaks.co.ke)
-- 🤝 [Corporate Aid Solutions – corporateaidsolutions.co.ke](https://corporateaidsolutions.co.ke)
-- 🌍 [SIDEC CBO – sidec-ke.org](https://sidec-ke.org)
+| Metric | What It Represents |
+|--------|---------------------|
+| 10+ live websites | Real clients, real problems, real solutions |10
+| Kenya and Germany | My work crosses borders |
+| Training, Publishing, Social Impact, Corporate | I adapt to any industry |
+| 3+ cybersecurity labs | I do not just study. I practice. |
 
 ---
 
-## 📬 Interested in Working Together?
+## Want to See More?
 
-I am available for web development, IT consulting, and cybersecurity projects.
+I am always building something new. Connect with me on [LinkedIn](https://linkedin.com/in/robert-mbuthia) or check my [GitHub](https://github.com/robertmmwangi).
 
-[Contact Me →](/contact/)
+[Back to Home →](/)
