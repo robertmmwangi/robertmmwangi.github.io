@@ -7,9 +7,13 @@ author_profile: true
 
 ## Hi, I am Robert Mwangi Mbuthia
 
-### 🔐 Cybersecurity Analyst | IT Infrastructure & Network Security
+### 🔐 Cybersecurity Analyst | IT Infrastructure and Network Security
 
-IT professional with 8+ years of experience in infrastructure, networking, and systems support, now transitioning into cybersecurity with hands-on SOC training in threat detection, log analysis, and vulnerability assessment.
+I have spent the last 8 years working with IT infrastructure, networking, and systems. Recently, I decided to take a step further. I dove into cybersecurity. It felt like the natural next chapter in my career.
+
+Why? Because I realized that securing systems is just as important as building them. So I enrolled in Cyber Shujaa. I started doing labs. I broke things. I fixed them. And I learned.
+
+Now I am here. Ready to bring my experience and my new skills to a SOC team.
 
 [📧 Contact Me](/contact/) &nbsp;&nbsp; [📄 View Resume](/resume/)
 
@@ -17,80 +21,70 @@ IT professional with 8+ years of experience in infrastructure, networking, and s
 
 ## Why hire me for your next cybersecurity role?
 
-I have worked with diverse clients across multiple industries — from telecommunications to education and SMEs — as an IT consultant and systems specialist. I help organizations solve their security and infrastructure challenges with practical, results-driven solutions.
+I have worked with diverse clients across multiple industries. These include telecommunications, education, and small to medium enterprises. I work as an IT consultant and systems specialist. I help organizations solve their security and infrastructure challenges with practical, results-driven solutions.
 
-My principle is **"secure by design, simple by execution."** I believe that strong security doesn't have to be complicated. I approach every role as a problem to solve — thoroughly, professionally, and with attention to detail.
+My principle is simple: **secure by design, simple by execution.** I believe strong security does not have to be complicated. I approach every role as a problem to solve. I work thoroughly, professionally, and with attention to detail.
 
 ---
 
 ## What I Bring to the Table
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px;">
-    <h3>🔐 Cybersecurity & SOC</h3>
-    <p>Threat detection, log analysis, vulnerability assessment, and SOC operations. Hands-on experience with Metasploit, Wireshark, and FFUF.</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px;">
-    <h3>🌐 Network & Infrastructure</h3>
-    <p>Cisco, firewalls, VoIP, Linux/Windows servers, and network monitoring. Proven track record maintaining 95%+ uptime.</p>
-  </div>
-  <div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px;">
-    <h3>💻 Web & Systems</h3>
-    <p>WordPress, SEO, CMS, system administration, and technical support. Full-stack capability for secure digital solutions.</p>
-  </div>
-</div>
+**🔐 Cybersecurity and SOC**
+
+Threat detection, log analysis, vulnerability assessment, and SOC operations. I have hands-on experience with Metasploit, Wireshark, and FFUF.
+
+**🌐 Network and Infrastructure**
+
+Cisco, firewalls, VoIP, Linux and Windows servers, and network monitoring. I have a proven track record of maintaining 95 percent uptime.
+
+**💻 Web and Systems**
+
+WordPress, SEO, CMS, system administration, and technical support. I provide full-stack capability for secure digital solutions.
 
 ---
 
-## Recent Achievements
+## A Snapshot of My Journey So Far
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <div style="flex: 1; min-width: 120px; background: #e8f4f8; padding: 15px; border-radius: 10px; text-align: center;">
-    <div style="font-size: 2em; font-weight: bold; color: #00C2FF;">8+</div>
-    <div>Years Experience</div>
-  </div>
-  <div style="flex: 1; min-width: 120px; background: #e8f4f8; padding: 15px; border-radius: 10px; text-align: center;">
-    <div style="font-size: 2em; font-weight: bold; color: #00C2FF;">100%</div>
-    <div>Quiz Scores</div>
-  </div>
-  <div style="flex: 1; min-width: 120px; background: #e8f4f8; padding: 15px; border-radius: 10px; text-align: center;">
-    <div style="font-size: 2em; font-weight: bold; color: #00C2FF;">15+</div>
-    <div>Assignments</div>
-  </div>
-  <div style="flex: 1; min-width: 120px; background: #e8f4f8; padding: 15px; border-radius: 10px; text-align: center;">
-    <div style="font-size: 2em; font-weight: bold; color: #00C2FF;">10+</div>
-    <div>Tools & Labs</div>
-  </div>
-</div>
+| Milestone | What I Learned |
+|-----------|----------------|
+| 8+ years in IT | How systems work, how to keep them running |
+| Cyber Shujaa training | Threat detection, log analysis, vulnerability assessment |
+| 15+ assignments | Practical application of cybersecurity concepts |
+| 10+ tools and labs | Metasploit, Wireshark, FFUF, TryHackMe |
 
 ---
 
 ## Featured Projects
 
-### 🔍 Web Application Security Testing
-*Identified SQL injection vulnerabilities using OWASP Top 10 methodology and FFUF fuzzing.*
+**🔍 Web Application Security Testing**
+
+I tested web applications for SQL injection vulnerabilities. I used OWASP Top 10 methodology and FFUF for fuzzing.
 
 [Read More →](/projects/)
 
-### 📡 Network Traffic Analysis
-*Captured and analyzed DNS traffic using Wireshark to identify anomalies and potential threats.*
+**📡 Network Traffic Analysis**
+
+I captured DNS traffic with Wireshark. I analyzed the packets to find anomalies.
 
 [Read More →](/projects/)
 
-### 🛡️ Vulnerability Assessment
-*Performed network scanning and enumeration using Metasploit Framework in controlled lab environments.*
+**🛡️ Vulnerability Assessment**
+
+I scanned networks with Metasploit. I found open ports and documented weaknesses.
 
 [Read More →](/projects/)
 
 ---
 
-## Recent Lab Challenges
+## Lab Challenges That Shaped Me
 
-**📊 Introduction to Log Analysis** (TryHackMe)  
-Analyzed system logs to identify suspicious activity. Learned that logs are the foundation of SOC operations.
+**📊 Introduction to Log Analysis**
 
-**🔀 L2 MAC Flooding & ARP Spoofing** (TryHackMe)  
-Simulated ARP spoofing to understand network attacks. Learned that network security requires constant monitoring.
+I learned that logs tell a story. Every event leaves a trace. A good SOC analyst reads the story before the attack finishes.
+
+**🔀 L2 MAC Flooding and ARP Spoofing**
+
+I simulated a network attack. I saw how easily traffic can be redirected. Now I understand why constant monitoring matters.
 
 [View All Lab Challenges →](/labs/)
 
@@ -98,8 +92,8 @@ Simulated ARP spoofing to understand network attacks. Learned that network secur
 
 ## Let's Connect
 
-I'm open to remote and hybrid opportunities in cybersecurity, IT infrastructure, and technical support.
+I am open to remote and hybrid opportunities in cybersecurity, IT infrastructure, and technical support.
 
-📍 Based in Nairobi County, Kenya
+📍 Nairobi County, Kenya
 
 [🔗 LinkedIn](https://linkedin.com/in/robert-mbuthia) | [💻 GitHub](https://github.com/robertmmwangi) | [📧 Email](mailto:rmbuthai49@gmail.com)
