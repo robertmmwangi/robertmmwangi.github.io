@@ -5,220 +5,145 @@ layout: single
 author_profile: true
 ---
 
-## 🔬 Hands-On Cybersecurity Labs
+## My Hands-On Journey Through Cybersecurity Labs
 
-Below are practical lab challenges I have completed from my Cyber Shujaa training and TryHackMe. Each lab includes the problem statement, my approach, tools used, and key lessons learned.
+I believe in learning by doing. These labs are my proof. Each one challenged me. Each one taught me something I will use in a real SOC.
 
 ---
 
-## 📊 Lab 1: Introduction to Log Analysis
+### 1.0 Introduction to Log Analysis
 
 **Platform:** TryHackMe  
-**Date Completed:** April 2026  
-**Difficulty:** Beginner
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Analyze system logs to identify suspicious activity and potential security incidents. Learn how log analysis forms the foundation of Security Operations Center (SOC) monitoring.
+A system was compromised. How would I know? Where would I look? The answer was in the logs. But logs are noisy. I had to find the signal in the static.
 
-### My Approach
+**My approach:**
 
-1. Reviewed system logs across multiple endpoints
-2. Correlated events to identify patterns
-3. Documented anomalies and their potential impact
-4. Practiced identifying normal vs. malicious activity
+I reviewed system logs across multiple endpoints. I looked for anomalies. I correlated events. I asked myself: what does normal look like? Then I looked for anything that did not fit.
 
-### Tools Used
+**Tools:** TryHackMe lab environment, pattern recognition, my own patience
 
-- TryHackMe lab environment
-- Log analysis techniques
-- Pattern recognition
+**The lesson:**
 
-### Completion Link
-
-https://tryhackme.com/r/rmbuthia49/badges/logging-legend?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=twitter&sharerId=6965fcb98984ad15cb2e93cd #tryhackme via @tryhackme 
-
-### Key Lessons Learned
-
-- Logs are the **eyes and ears** of a SOC analyst
-- Correlation across multiple sources reveals hidden threats
-- Timely log review prevents incident escalation
-- Understanding normal behavior is essential to spotting anomalies
+Logs are the eyes and ears of a SOC analyst. Without them, you are blind. With them, you can trace an attacker's every move. But only if you know what to look for.
 
 ---
 
-## 🔀 Lab 2: L2 MAC Flooding & ARP Spoofing
+### 2.0 L2 MAC Flooding and ARP Spoofing
 
 **Platform:** TryHackMe  
-**Date Completed:** April 2026  
-**Difficulty:** Intermediate
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Understand how attackers manipulate network traffic through ARP spoofing and MAC flooding attacks. Learn detection and mitigation strategies.
+Network attacks happen at layers most people never see. How does ARP spoofing work? Why does MAC flooding confuse switches?
 
-### My Approach
+**My approach:**
 
-1. Simulated ARP spoofing in a controlled environment
-2. Analyzed network traffic before and after the attack
-3. Identified detection methods
-4. Researched mitigation strategies
+I set up a controlled environment. I simulated ARP spoofing. I watched traffic redirect before my eyes. I analyzed packets before and after the attack. Then I researched how to detect and stop it.
 
-### Tools Used
+**Tools:** TryHackMe virtual environment, Wireshark concepts
 
-- TryHackMe virtual environment
-- Wireshark concepts
-- Network protocol analysis
+**The lesson:**
 
-### Completion Link
-https://tryhackme.com/room/layer2?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=6965fcb98984ad15cb2e93cd
-
-### Key Lessons Learned
-
-- ARP spoofing enables **man-in-the-middle** attacks
-- Network security requires **constant monitoring**
-- Segmentation and encryption reduce attack impact
-- MAC flooding can overwhelm switch memory
+Trust on a network is dangerous. ARP has no authentication. That is a feature for attackers and a nightmare for defenders. The only solution is constant monitoring and segmentation.
 
 ---
 
-## 🕸️ Lab 3: DNS In Detail
+### 3.0 DNS In Detail
 
 **Platform:** TryHackMe  
-**Date Completed:** April 2026  
-**Difficulty:** Beginner
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Understand how DNS (Domain Name System) works, common DNS record types, and how DNS can be abused by attackers.
+DNS is the phonebook of the internet. But what happens when someone poisons the phonebook?
 
-### My Approach
+**My approach:**
 
-1. Studied DNS hierarchy and record types (A, AAAA, CNAME, MX, TXT)
-2. Learned how DNS queries and responses work
-3. Explored DNS attack vectors (DNS spoofing, tunneling)
+I studied the DNS hierarchy. I learned about record types: A, AAAA, CNAME, MX, TXT. Then I explored attack vectors like DNS spoofing and tunneling.
 
-### Tools Used
+**Tools:** TryHackMe lab, DNS analysis
 
-- TryHackMe lab
-- DNS analysis techniques
+**The lesson:**
 
-### Key Lessons Learned
-
-- DNS is often overlooked as an attack vector
-- TXT records can be abused for data exfiltration
-- DNSSEC helps prevent DNS spoofing
+DNS is often overlooked. Attackers love overlooked things. A TXT record can exfiltrate data right under your nose. DNSSEC is not optional anymore.
 
 ---
 
-## 🔨 Lab 4: Metasploit Framework
+### 4.0 Metasploit Framework
 
-**Platform:** TryHackMe / Cyber Shujaa  
-**Date Completed:** April 2026  
-**Difficulty:** Intermediate
+**Platform:** Cyber Shujaa / TryHackMe  
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Learn to use Metasploit Framework for vulnerability scanning, enumeration, and exploitation in controlled environments.
+Metasploit is famous. But fame does not teach you how to use it. I had to learn.
 
-### My Approach
+**My approach:**
 
-1. Launched Metasploit console (`msfconsole`)
-2. Performed service enumeration on target
-3. Identified vulnerabilities using search functionality
-4. Executed controlled exploits in lab environment
+I launched `msfconsole`. I scanned a target. I searched for vulnerabilities. I selected an exploit. I ran it in a lab environment. Then I documented everything.
 
-### Tools Used
+**Tools:** Metasploit Framework, Nmap
 
-- Metasploit Framework
-- Nmap integration
-- Payload generation
+**The lesson:**
 
-### Key Lessons Learned
-
-- Metasploit is powerful but requires **responsible use**
-- Enumeration is critical before exploitation
-- Understanding exploits helps with defense
+Metasploit is a powerful tool. But power without responsibility is dangerous. I learned to use it so I can defend against it. That is the ethical hacker's way.
 
 ---
 
-## 🌐 Lab 5: Attacking Web Applications with FFUF
+### 5.0 Attacking Web Applications with FFUF
 
 **Platform:** Cyber Shujaa  
-**Date Completed:** April 2026  
-**Difficulty:** Intermediate
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Use FFUF (Fuzz Faster U Fool) to discover hidden directories and endpoints on web applications.
+Web applications hide endpoints. Attackers love hidden endpoints. How do you find them?
 
-### My Approach
+**My approach:**
 
-1. Set up target web application
-2. Used wordlists for directory fuzzing
-3. Analyzed response codes to identify valid endpoints
-4. Documented discovered paths
+I used FFUF (Fuzz Faster U Fool). I fed it wordlists. It found directories I did not know existed. I analyzed response codes to separate valid paths from noise.
 
-### Tools Used
+**Tools:** FFUF, SecLists wordlists
 
-- FFUF (Fuzz Faster U Fool)
-- Wordlists (SecLists)
-- Web browser for verification
+**The lesson:**
 
-### Key Lessons Learned
-
-- Hidden directories can expose sensitive information
-- Fuzzing reveals attack surfaces
-- Rate limiting prevents automated fuzzing
+Fuzzing reveals secrets. A developer hides an admin panel. FFUF finds it in seconds. That is why rate limiting and authentication matter.
 
 ---
 
-## 🔐 Lab 6: OWASP Top 10 (2025)
+### 6.0 OWASP Top 10 (2025)
 
 **Platform:** Cyber Shujaa  
-**Date Completed:** April 2026  
-**Difficulty:** Intermediate
+**When I did it:** April 2026
 
-### Problem Statement
+**The problem:**
 
-Study and apply the OWASP Top 10 web application security risks (2025 edition) in a controlled lab environment.
+The OWASP Top 10 is the industry standard. But reading a list is not the same as understanding it.
 
-### My Approach
+**My approach:**
 
-1. Reviewed each OWASP Top 10 category
-2. Performed simulated testing for common vulnerabilities
-3. Documented mitigation strategies
+I studied each category. I performed simulated testing for common vulnerabilities. I documented mitigation strategies for each one.
 
-### Topics Covered
+**Topics covered:**
 
 - Broken Access Control
 - Cryptographic Failures
 - Injection (SQL, NoSQL, OS Command)
 - Security Misconfiguration
-- Vulnerable Components
+- Vulnerable and Outdated Components
 
-### Key Lessons Learned
+**The lesson:**
 
-- OWASP Top 10 is the **standard** for web security
-- Prevention is better than remediation
-- Regular testing reduces risk
+The OWASP Top 10 is not a checklist. It is a mindset. Every web application has weak points. Your job is to find them before the bad guys do.
 
 ---
 
-## 📈 Lab Progress Summary
-
-| Lab | Platform | Status | Grade |
-|-----|----------|--------|-------|
-| Introduction to Log Analysis | TryHackMe | ✅ Completed | 100% |
-| L2 MAC Flooding & ARP Spoofing | TryHackMe | ✅ Completed | 100% |
-| DNS In Detail | TryHackMe | ✅ Completed | 100% |
-| Metasploit Framework | Cyber Shujaa | ✅ Completed | 100% |
-| Attacking Web Apps with FFUF | Cyber Shujaa | ✅ Completed | 100% |
-| OWASP Top 10 (2025) | Cyber Shujaa | ✅ Completed | 100% |
-
----
-
-## 🎯 Tools Mastered Through Labs
+## Tools I Have Mastered Along the Way
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
   <span style="background: #0077b5; color: white; padding: 5px 15px; border-radius: 20px;">Metasploit</span>
@@ -233,8 +158,19 @@ Study and apply the OWASP Top 10 web application security risks (2025 edition) i
 
 ---
 
-## 📬 Want to See More?
+## What Comes Next
 
-I'm actively completing new labs weekly. Connect with me on [LinkedIn](https://linkedin.com/in/robert-mbuthia) or check my [GitHub](https://github.com/robertmmwangi) for updates.
+I am not stopping here. My lab journey continues:
+
+- [ ] Splunk: Exploring SPL (in progress)
+- [ ] Red Team Recon (next on my list)
+- [ ] Windows Forensics 2
+- [ ] Malware Analysis Deep Dive
+
+---
+
+## Want to Follow My Journey?
+
+Connect with me on [LinkedIn](https://linkedin.com/in/robert-mbuthia) or check my [GitHub](https://github.com/robertmmwangi). I post about every lab I complete.
 
 [Back to Home →](/)
