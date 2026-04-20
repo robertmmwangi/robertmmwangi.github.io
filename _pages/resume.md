@@ -106,17 +106,23 @@ Cybersecurity-focused IT professional with over 8 years of experience in infrast
 
 ---
 
-## Referees
+## 📬 References
 
-| Name | Position | Contact |
-|------|----------|---------|
-| **Mr. Simon Kiarie** | Managing Director, Ultratude Technologies Limited | Cell: +254 720 061812<br>Email: simon@mzizi.co.ke |
-| **Ken Arungah** | Onetel Communications Ltd | Cell: +44 7523 449935<br>Email: ken@onetelco.net |
-| **Tabitha Waithaka** | Director, Nyahururu Elite Schools | Cell: 0786718199<br>Email: twaithaka02@gmail.com |
+Professional references are available upon request. Please [contact me](/contact/) for more details.
 
 ---
 
-## Contact
+## 📞 Let's Connect
 
-- **Phone:** +254700480061 / +254105736909
-- **Email:** rmbuthai49@gmail.com
+I am open to opportunities in cybersecurity, IT infrastructure, and technical support.
+
+- 📧 **Email:** [rmbuthai49@gmail.com](mailto:rmbuthai49@gmail.com)
+- 📱 **Phone:** +254 700 480 061 / +254 105 736 909
+- 🔗 **LinkedIn:** [linkedin.com/in/robert-mbuthia](https://linkedin.com/in/robert-mbuthia)
+- 💻 **GitHub:** [github.com/robertmmwangi](https://github.com/robertmmwangi)
+
+---
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/contact/" style="background: #0077b5; color: white; padding: 10px 25px; border-radius: 25px; text-decoration: none;">📬 Contact Me for References</a>
+</div>
