@@ -7,7 +7,7 @@ author_profile: true
 
 ## 🌐 The Websites I Built
 
-Before cybersecurity, I built websites. Lots of them. Each one taught me something about systems, clients, and problem-solving. Here are a few that I am proud of.
+Before cybersecurity, I built websites. Quite a few of them. Each one taught me something about systems, clients, and problem-solving. Here are a few that I am proud of.
 
 ---
 
