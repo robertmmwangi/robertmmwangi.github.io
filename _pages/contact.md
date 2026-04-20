@@ -7,85 +7,77 @@ author_profile: true
 
 ## 📬 Let's Connect
 
-I'm actively seeking opportunities in **cybersecurity, IT infrastructure, and technical support**. Whether you have a role in mind, a project to discuss, or just want to connect — I'd love to hear from you.
+I am at a point in my journey where the next step is connection. I have the experience. I have the training. Now I need the right team.
+
+Maybe that is you.
 
 ---
 
-## 📧 Direct Contact
+## 📧 How to Reach Me
 
-| Method | Details |
-|--------|---------|
-| **Email** | [rmbuthai49@gmail.com](mailto:rmbuthai49@gmail.com) |
-| **Phone** | +254 700 480 061 / +254 105 736 909 |
-| **Location** | Nairobi County, Kenya |
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 200px; background: #f0f7ff; padding: 20px; border-radius: 10px; text-align: center;">
+    <div style="font-size: 2.5em;">📧</div>
+    <div style="font-weight: bold;">Email</div>
+    <div><a href="mailto:rmbuthai49@gmail.com">rmbuthai49@gmail.com</a></div>
+  </div>
+  <div style="flex: 1; min-width: 200px; background: #f0f7ff; padding: 20px; border-radius: 10px; text-align: center;">
+    <div style="font-size: 2.5em;">📱</div>
+    <div style="font-weight: bold;">Phone</div>
+    <div>+254 700 480 061<br>+254 105 736 909</div>
+  </div>
+  <div style="flex: 1; min-width: 200px; background: #f0f7ff; padding: 20px; border-radius: 10px; text-align: center;">
+    <div style="font-size: 2.5em;">📍</div>
+    <div style="font-weight: bold;">Location</div>
+    <div>Nairobi County, Kenya</div>
+  </div>
+</div>
 
 ---
 
 ## 🌐 Professional Profiles
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-  <a href="https://linkedin.com/in/robert-mbuthia" target="_blank" style="background: #0077b5; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; display: inline-block;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
+  <a href="https://linkedin.com/in/robert-mbuthia" target="_blank" style="background: #0077b5; color: white; padding: 12px 25px; border-radius: 30px; text-decoration: none; display: inline-block;">
     🔗 LinkedIn
   </a>
-  <a href="https://github.com/robertmmwangi" target="_blank" style="background: #333; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; display: inline-block;">
+  <a href="https://github.com/robertmmwangi" target="_blank" style="background: #333; color: white; padding: 12px 25px; border-radius: 30px; text-decoration: none; display: inline-block;">
     💻 GitHub
   </a>
-  <a href="mailto:rmbuthai49@gmail.com" style="background: #ea4335; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; display: inline-block;">
+  <a href="mailto:rmbuthai49@gmail.com" style="background: #ea4335; color: white; padding: 12px 25px; border-radius: 30px; text-decoration: none; display: inline-block;">
     📧 Gmail
   </a>
 </div>
 
 ---
 
-## 💼 Open To
+## 💼 What I Am Looking For Right Now
 
-| Role Type | Status |
-|-----------|--------|
-| **SOC Analyst (L1)** | ✅ Actively looking |
-| **Cybersecurity Analyst** | ✅ Actively looking |
-| **IT Support / NOC** | ✅ Open |
-| **Remote IT Roles** | ✅ Open |
-| **Freelance Web Development** | ✅ Available |
-
----
-
-## 📋 Quick Reference
-
-### What I Bring
-
-- 8+ years IT infrastructure & networking
-- Hands-on SOC training (threat detection, log analysis, vulnerability assessment)
-- Web development (WordPress, SEO, 5+ live client sites)
-- Remote-ready with reliable setup
-
-### Availability
-
-- **Immediate** for contract/freelance
-- **2-4 weeks** for full-time roles
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 180px; background: #e8f4f8; padding: 15px; border-radius: 10px;">
+    <div style="font-weight: bold;">🔐 SOC Analyst (L1)</div>
+    <div style="color: #28a745;">actively looking</div>
+  </div>
+  <div style="flex: 1; min-width: 180px; background: #e8f4f8; padding: 15px; border-radius: 10px;">
+    <div style="font-weight: bold;">🛡️ Cybersecurity Analyst</div>
+    <div style="color: #28a745;">actively looking</div>
+  </div>
+  <div style="flex: 1; min-width: 180px; background: #e8f4f8; padding: 15px; border-radius: 10px;">
+    <div style="font-weight: bold;">💻 IT Support or NOC</div>
+    <div style="color: #ff9800;">open</div>
+  </div>
+  <div style="flex: 1; min-width: 180px; background: #e8f4f8; padding: 15px; border-radius: 10px;">
+    <div style="font-weight: bold;">🌍 Remote IT Roles</div>
+    <div style="color: #ff9800;">open</div>
+  </div>
+</div>
 
 ---
 
-## 📝 Send a Message
+## 📋 A Quick Summary of Who I Am
 
-You can reach me directly via email or LinkedIn. I typically respond within **24 hours**.
-
-For partnership inquiries, speaking engagements, or technical consulting — please include "Partnership" in your subject line.
-
----
-
-## 🗺️ Based In
-
-**Nairobi County, Kenya**  
-*Available for remote, hybrid, and local opportunities*
-
----
-
-## 📎 Quick Links
-
-- [View My Resume →](/resume/)
-- [See My Projects →](/projects/)
-- [Check My Labs →](/labs/)
-
----
-
-*I look forward to connecting with you!*
+<div style="background: #1a1f3a; color: white; padding: 25px; border-radius: 15px; margin: 20px 0;">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li>✅ 8 years of IT infrastructure and networking experience</li>
+    <li>✅ Hands-on SOC training in threat detection, log analysis, and vulnerability assessment</li>
+    <li>✅
